@@ -43,7 +43,7 @@
     "bootstrap": "5.2.3",
     "chess.js": "0.13.3",
     "chessground": "8.3.6",
-    "csvtojson": "2.0.10",
+    "csvtojson": "2.0.13",
     "cuid": "2.1.8",
     "dayjs": "1.11.7",
     "dotenv": "16.0.3",
